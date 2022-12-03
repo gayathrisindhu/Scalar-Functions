@@ -1,0 +1,7 @@
+SELECT CONVERT(int, 45.65);
+
+SELECT CONVERT(varchar, 45.65);
+
+SELECT CONVERT(datetime, '2022-01-26');
+
+SELECT CONVERT(varchar, '2022-01-26', 101);
